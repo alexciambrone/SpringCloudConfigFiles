@@ -1,4 +1,4 @@
 customer.name.hint: Please insert your name prod
 customer.surname.hint: Please insert your name prod
 customer.login: login
-customer.password: "{cipher}ca3786ce951602799123c990f25d27101ff2adc784752a77bd2168d6bde065c2"
+customer.password: password
