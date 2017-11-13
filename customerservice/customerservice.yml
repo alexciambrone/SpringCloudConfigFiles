@@ -1,0 +1,4 @@
+customer.name.hint: Please insert your name default
+customer.surname.hint: Please insert your name default
+customer.login: login
+customer.password: password
